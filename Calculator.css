@@ -1,0 +1,60 @@
+.container{
+	background-color: grey;
+	width: 500px;
+	height: 500px;
+}
+
+.calculator{
+	position: absolute;
+	background-color: antiquewhite;
+	width: 300px;
+	height: 400px;
+	border-radius: 25px;
+	left: 7%;
+	top: 6%;
+}
+
+#calcField{
+	position: relative;
+	top: 4%;
+	left: 14.5%;
+	width: 200px;
+	height: 24px;
+}
+
+.numbers{
+	position: relative;
+	background-color: grey;
+	width: 160px;
+	height: 200px;
+	border-radius: 25px;
+	top: 10%;
+	left: 4%;
+}
+.numbers input{
+	position: relative;
+	background-color: red;
+	width: 35px;
+	top: 15%;
+	left: 12%;
+
+}
+
+.operators{
+	position: relative;
+	background-color: grey;
+	border-radius: 25px;
+	width: 75px;
+	height: 200px;
+	left: 65%;
+	bottom: 40%;
+}
+
+.operators input{
+	position: relative;
+	background-color: red;
+	width: 35px;
+	top: 15%;
+	left: 25%;
+
+}
